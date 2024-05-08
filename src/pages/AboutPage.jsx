@@ -8,19 +8,14 @@ const AboutPage = () => {
         <h1 className="text-center">About Us</h1>
         <hr />
         <p className="lead text-center">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-          facere doloremque veritatis odit similique sequi. Odit amet fuga nam
-          quam quasi facilis sed doloremque saepe sint perspiciatis explicabo
-          totam vero quas provident ipsam, veritatis nostrum velit quos
-          recusandae est mollitia esse fugit dolore laudantium. Ex vel explicabo
-          earum unde eligendi autem praesentium, doloremque distinctio nesciunt
-          porro tempore quis eaque labore voluptatibus ea necessitatibus
-          exercitationem tempora molestias. Ad consequuntur veniam sequi ullam
-          tempore vel tenetur soluta dolore sunt maxime aliquam corporis est,
-          quo saepe dolorem optio minus sint nemo totam dolorum! Reprehenderit
-          delectus expedita a alias nam recusandae illo debitis repellat libero,
-          quasi explicabo molestiae saepe, dolorem tempore itaque eveniet quam
-          dignissimos blanditiis excepturi harum numquam vel nihil? Ipsum
+          
+Welcome to Jericommerce, your premier destination for fashion, technology, and style. 
+With a curated collection encompassing men's and women's clothing, exquisite jewelry, 
+and cutting-edge electronics, we offer a diverse array of products tailored to modern lifestyles. 
+From trend-setting apparel to statement jewelry and innovative gadgets, our commitment to quality 
+and customer satisfaction ensures a seamless shopping experience.Whether you're seeking the latest 
+fashion trends or cutting-edge technology, Jericommerce provides a one-stop solution for all your needs, 
+promising convenience, style, and innovation at every turn.
         </p>
 
         <h2 className="text-center py-4">Our Products</h2>

@@ -13,11 +13,10 @@ const Home = () => {
           />
           <div className="card-img-overlay d-flex align-items-center">
             <div className="container">
-              <h5 className="card-title fs-1 text fw-lighter">New Season </h5>
+              <h5 className="card-title fs-1 text fw-lighter">Welcome Shoppers</h5>
               <p className="card-text fs-5 d-none d-sm-block ">
-                This is a wider card with supporting text below as a natural
-                lead-in to additional content. This content is a little bit
-                longer.
+              Welcome to Jericommerce, your hub for style, innovation, and convenience. Explore our curated collection designed to meet your diverse needs,
+              whether it's fashion, technology, or accessories. Join our community united by a passion for quality and seamless experiences. Welcome to the adventure!
               </p>
             </div>
           </div>
